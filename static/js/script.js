@@ -14,14 +14,14 @@ document.addEventListener("DOMContentLoaded", function () {
         const messageText = messageInput.value.trim();
         if (messageText === "") return;
 
-        // Dodaj korisničku poruku u chat
+    
         addMessage(messageText, "sent");
 
-        // Prikazivanje "Domagoj tipka..." indikator
+       
         showTypingIndicator();
 
-        // Pošalji poruku serveru
-        fetch("http://127.0.0.1:5000/chat", {
+        
+        fetch("https://resume-ai-qosi.onrender.com/chat", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({ message: messageText })
@@ -37,7 +37,7 @@ document.addEventListener("DOMContentLoaded", function () {
             addMessage("Greška pri dohvaćanju odgovora.", "received");
         });
 
-        // Očisti input
+       
         messageInput.value = "";
     }
 
