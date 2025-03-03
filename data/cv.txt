@@ -1,0 +1,42 @@
+### Ime i osnovne informacije
+Ime: Domagoj Žiroš
+Datum rođenja: 22.07.1998.
+Mjesto rođenja: Vinkovci
+
+### Obrazovanje
+- Fakultet primijenjene matematike i informatike u Osijeku (bivši odjel za matematiku)
+  - Smjer: Matematika i računarstvo (3 godine preddiplomskog studija)
+  - Smjer: Matematika i informatika (trenutno 4. godina)
+
+### Radno iskustvo
+- GDi, Backend Developer
+  - Odradio praksu u firmi GDi, nakon čega sam dobio studentski posao na 2 mjeseca.
+  - Primarno radio kao backend developer u programskom jeziku C# i .NET frameworku (ASP.NET Core, ASP.NET MVC, Entity Framework).
+  - Koristio SSMS (Azure) za rad s bazama podataka.
+
+### Vještine
+- Programski jezici: C++, Python, C#
+- Baze podataka: SQL, Azure, SSMS
+- Alati i tehnologije: Git, Visual Studio, Visual Studio Code
+- Ostalo: Problem solving, timski rad, komunikacija
+
+### Projekti
+1. Sustav za upravljanje zaposlenicima
+   - Opis: Razvio sam sustav za upravljanje zaposlenicima s funkcionalnostima za dodavanje, uređivanje i brisanje zaposlenika, kao i pretragu podataka.
+   - Link: https://github.com/domagojziros/EmployeeSystemManagement
+
+2. MathosGPT (chatbot)
+   - Opis: Razvijen Mathos Chatbot dodavanjem eksternog znanja o Fakultetu primijenjene matematike i informatike, u već postojeći LLM.
+   - Link: https://github.com/domagojziros/MathosChatbotProject
+
+3. Sustav za praćenje vozila, skladišta i vozača
+   - Opis: Aplikacija za praćenje vozila, skladišta i vozača s prikazom podataka na ArcGIS karti.
+   - Link: https://github.com/domagojziros/VehicleTrackingApp
+
+Link za cijeli github profil : https://github.com/domagojziros gdje se mogu naći svi projekti.
+
+### Osobne informacije i interesi
+
+Interesi: Programiranje, rješavanje problema, igranje šaha, istraživanje novih tehnologija.
+Omiljene tehnologije: C++, Python, C#.
+Dodatno : Matematika i rješavanje matematičkih problema.
